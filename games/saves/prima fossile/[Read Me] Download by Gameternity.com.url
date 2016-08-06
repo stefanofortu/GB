@@ -1,0 +1,14 @@
+[DEFAULT]
+BASEURL=http://www.gameternity.com/
+[DOC_cboxmain]
+BASEURL=http://www.cbox.ws/box/?boxid=610873&boxtag=1181&sec=main
+ORIGURL=http://www.cbox.ws/box/?boxid=610873&boxtag=1181&sec=main
+[DOC_cboxform]
+BASEURL=http://www.cbox.ws/box/?boxid=610873&boxtag=1181&sec=form
+ORIGURL=http://www.cbox.ws/box/?boxid=610873&boxtag=1181&sec=form
+[DOC_cboxform#32_oV3]
+BASEURL=about:blank
+ORIGURL=javascript:parent.fV11()
+[InternetShortcut]
+URL=http://www.gameternity.com/
+Modified=80684CEBC7A8C70156
